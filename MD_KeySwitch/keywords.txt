@@ -1,0 +1,6 @@
+MD_KeySwitch	KEYWORD1
+setDebounceTime KEYWORD2
+setRepeatTime KEYWORD2
+begin KEYWORD2
+read KEYWORD2
+	
